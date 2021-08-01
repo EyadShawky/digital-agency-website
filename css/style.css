@@ -1,0 +1,391 @@
+body {
+    color: #fff;
+    font-family: 'Nunito', sans-serif
+}
+
+#about {
+    background-color: #0c0c10
+}
+
+#services {
+    background-color: #1a1a1a
+}
+
+#Blog {
+    background-color: #1a1a1a
+}
+
+#Blog .card-body {
+    background-color: #080818
+}
+
+.card2 {
+    background-color: #080818
+}
+
+.card-img, .card-img-top {
+    border-top-left-radius: calc(0 - 0);
+    border-top-right-radius: calc(0 - 0)
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff
+}
+
+.about-info {
+    margin-top: 120px
+}
+
+.lead {
+    color: #68f8ee;
+    font-size: 1.5rem
+}
+
+h5 {
+    color: #68f8ee;
+    font-size: .8rem
+}
+
+.dic-li {
+    color: #68f8ee;
+    list-style: circle
+}
+
+h1 {
+    font-size: 4.1rem;
+    color: #fff;
+    font-weight: 900
+}
+
+a {
+    font-size: .9rem
+}
+
+#btnUp {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 99999;
+    display: none
+}
+
+h2 {
+    font-size: 3rem;
+    font-weight: 700
+}
+
+.deec {
+    color: #68f8ee;
+    font-size: 3.5rem
+}
+
+.headerrr {
+    font-size: 1.3rem;
+    color: #fff;
+    font-weight: 700
+}
+
+.line1 {
+    height: 2.2px;
+    width: 45px;
+    background-color: #68f8ee
+}
+
+.card-body {
+    background-color: #1a1a1a
+}
+
+.dec1 {
+    border: 2.5px solid #68f8ee
+}
+
+.deec1 {
+    color: #68f8ee;
+    font-size: 1.8rem
+}
+
+.deec111 {
+    color: #68f8ee;
+    font-size: .8rem
+}
+
+.border {
+    border: 1px solid #dee2e654!important
+}
+
+.dec11 {
+    background-color: #68f8ee;
+    color: #000 !important
+}
+
+.linee {
+    width: 100%;
+    height: 3px;
+    top: 196px;
+    background-color: #fff
+}
+
+.lineee {
+    height: 40px;
+    border-left: 3px solid #68f8ee
+}
+
+.deec11 {
+    color: #000;
+    font-size: 1.8rem
+}
+
+.line2 {
+    height: 2.2px;
+    width: 45px;
+    background-color: #68f8ee
+}
+
+.lone {
+    height: 2px;
+    width: 80px;
+    background-color: ##68F8EE;
+    margin-left: 715px
+}
+
+.color-main {
+    color: #68f8ee !important
+}
+
+.bg-main {
+    background-color: #68f8ee !important
+}
+
+.bg-black {
+    background-color: #68f8ee
+}
+
+.title h2, .title h3 {
+    font-weight: 800;
+    letter-spacing: 3px
+}
+
+.title h2 {
+    font-size: 5rem
+}
+
+.title h3 {
+    font-size: 2.5rem;
+    color: #000
+}
+
+.navbar-padding {
+    padding-left: 60px;
+    padding-right: 60px
+}
+
+#main-nav {
+    transition: background-color 2s, padding 2s
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    transition-property: all;
+    transition-duration: .2s
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #68f8ee
+}
+
+a:hofver {
+    color: #68f8ee
+}
+
+.icon {
+    height: 2.2rem;
+    width: 2.2rem;
+    margin: 5px;
+    border: solid 1px rgba(255, 255, 255, .5);
+    cursor: pointer
+}
+
+.icon a {
+    color: #000
+}
+
+header {
+    overflow: hidden;
+    height: 105vh;
+    background-image: url(../images/pawel-czerwinski-reREeOonoDo-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    color: #000
+}
+
+#services .title h2 {
+    color: #222
+}
+
+#services .title h3 {
+    color: #000
+}
+
+#services .icon {
+    font-size: 1rem;
+    color: #6b63ff;
+    border-radius: 50%;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(50%)
+}
+
+#services i {
+    font-size: 3rem;
+    color: #6b63ff;
+    transition-property: all;
+    transition-duration: .2s
+}
+
+#services i:hover {
+    color: #6b63ffe7
+}
+
+#services h4 {
+    position: relative
+}
+
+#services h4::after {
+    content: "";
+    width: 15%;
+    height: 1px;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 100%;
+    position: absolute;
+    background-color: #6c63ff
+}
+
+.service-item {
+    margin: 40px 0
+}
+
+.line {
+    height: 1px;
+    width: 40px;
+    background-color: #68f8ee;
+    margin-top: 32px;
+    margin-right: 10px
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0);
+    border: rgba(0, 0, 0, 0)
+}
+
+.dec {
+    background-color: #68f8ee;
+    color: #242424
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-image: url(../images/menu.png)
+}
+
+.btn-outline-primary {
+    color: #68f8ee;
+    border-color: #68f8ee;
+    width: 42%;
+    height: 18%;
+    border-radius: 0;
+    margin-top: 15px;
+    font-size: .9rem
+}
+
+.btn-outline-danger {
+    color: #68f8ee;
+    border-color: #68f8ee;
+    border-radius: 0;
+    margin-top: 15px;
+    font-size: .9rem
+}
+
+.btn:hover {
+    background-color: #68f8ee;
+    color: #fff;
+    border-color: #68f8ee
+}
+
+.progress-bar {
+    color: #fff;
+    background-color: #6c63ff
+}
+
+.DOCS {
+    font-weight: 600
+}
+
+#home {
+    overflow: hidden
+}
+
+#about {
+    overflow: hidden
+}
+
+#services {
+    overflow: hidden
+}
+
+#work {
+    overflow: hidden
+}
+
+ul {
+    display: inline-grid;
+    grid-auto-flow: row;
+    grid-gap: 24px;
+    justify-items: center;
+    margin: auto
+}
+
+@media(min-width:500px) {
+    ul {
+        grid-auto-flow: column
+    }
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    box-shadow: inset 0 -1px 0 #68f8ee
+}
+
+li:last-child {
+    grid-column: 1/2;
+    grid-row: 1/2
+}
+
+li:hover~li p {
+    animation: wave-animation .3s infinite
+}
+
+#footer h5 {
+    color: #000;
+    font-size: .8rem;
+    font-weight: bold
+}
+
+.btn-outline-success {
+    border: 1px solid #68f8ee;
+    border-radius: 0
+}
+
+#contact .btn-outline-success:hover {
+    color: #000
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #000;
+    background-color: #68f8ee
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    font-size: .7rem !important
+}
